@@ -1,0 +1,45 @@
+/* hero */
+.hero-section {
+
+    max-width: 1600px;
+    min-height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+
+    background-image: linear-gradient(to right,
+            rgba(47, 48, 58, 0.4),
+            rgba(47, 48, 58, 0.4)),
+        url("../images/main-site/heager_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+    background-color: var(--secondary-bg-color);
+    text-align: center;
+}
+
+.hero-section__hero-title {
+    margin-top: 0;
+    margin-bottom: 30px;
+    margin-right: 283px;
+    margin-left: 283px;
+
+    color: var(--primary-white-color);
+    text-transform: uppercase;
+
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.5;
+    letter-spacing: 0.06em;
+}
+
+.hero-section__container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}

@@ -1,0 +1,27 @@
+/* цвет основного текста #212121 */
+/* вторичный цвет #757575 */
+/*белый #FFFFFF  */
+/* акцент #2196F3; */
+/* подвал rgba(255, 255, 255, 0.6) */
+/* вторичный цвет фона #2F303A; */
+/* фон неактивной кнопки #F5F4FA*/
+/* цвет рамки карточек #EEEEEE*/
+/* цвет нижней рамки хедера #ECECEC */
+/* цвет иконок #AFB1B8 */
+/* цвет рамки клиентов #E5E5E5 */
+/* цвет фона модального окнна rgba(0, 0, 0, 0.25)*/
+
+:root {
+    --primary-text-color: #212121;
+    --secondary-text-color: #757575;
+    --accent-color: #2196F3;
+    --primary-white-color: #FFFFFF;
+    --footer-color: rgba(255, 255, 255, 0.6);
+    --secondary-bg-color: #2F303A;
+    --button-bg-color: #F5F4FA;
+    --border-card-color: #EEEEEE;
+    --border-header-color: #ECECEC;
+    --icon-color: #AFB1B8;
+    --borger-client-color: #E5E5E5;
+    --bg-modal-color: rgba(0, 0, 0, 0.25);
+}
